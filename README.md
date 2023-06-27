@@ -9,10 +9,16 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 
 
 
-<h1 align="center"> ![CheckGreenGIF](https://github.com/Osnaelle/CapsulaDeMemorias/assets/36750879/64b65223-51c1-4904-87ff-eaba7601a794)
-Tecnologias utilizadas </h1>
+<h1 align="center"> ✅Tecnologias utilizadas </h1>
 
-ReactJS para web e React-native no mobile, NodeJS, Fastify, Typescript, TailwindCSS, NextJS e Prisma.
+▪️ReactJS para web 
+▪️React-native no mobile
+▪️NodeJS
+▪️Fastify
+▪️Typescript
+▪️TailwindCSS
+▪️NextJS 
+▪️Prisma.
 
 
 
